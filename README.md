@@ -1,11 +1,8 @@
-# design-manhole-map
+# worldsrecords-challenge
 
-- [デザインマンホールマップ](https://EiichiMiyagawa.github.io/design-manhole-map/)
+- [福井県内の世界記録チャレンジマップ](https://code4fukui.github.io/worldsrecords-challenge/)
 
 ## オープンデータ
 
-- [デザインマンホールオープンデータ CSV](https://EiichiMiyagawa.github.io/design-manhole-map/data.csv)
+- [福井県内の世界記録チャレンジマップオープンデータ CSV](https://code4fukui.github.io/worldsrecords-challenge/data.csv)
 
-## 出展
-
-- [マンホールカード検索 | 下水道広報プラットホーム](https://www.gk-p.jp/mhcard/?pref=18#mhcard_result)
